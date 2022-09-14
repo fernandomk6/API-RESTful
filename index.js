@@ -52,7 +52,7 @@ app.get('/', (req, res) => {
 
 // Entregar uma parta.
 const DB_USER = encodeURIComponent('fernandomk6')
-const DB_PASS = encodeURIComponent('88080958Aa!1')
+const DB_PASS = encodeURIComponent('fBmTwKz$dwH!3n@')
 
 mongoose
   .connect(
